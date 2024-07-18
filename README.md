@@ -18,7 +18,7 @@
             </section>
         <section id="discussion-details">
             <h2>토론 전</h2>
-               <p></p> 토론 전 투표 결과 
+               <p></p>투표 결과 
                 찬성 22표 VS 반대 3표.</p>
         </section>
         <section id="discussion-details">
