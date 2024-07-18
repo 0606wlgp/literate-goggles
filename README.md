@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <학급 토론 내용 정리<
+    학급 토론 내용 정리
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
