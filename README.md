@@ -28,51 +28,5 @@
                 <p>반대측의 주장은 안락사는 중증환자가 죽음을 쉽게 선택할 수 있게 만들어 생명 존중을 저해할 수 있다고 주장한다. 또한, 타인의 동의로 이루어지는 안락사는 환자의 진정한 자기 결정과 맞지 않을 수 있으며, 이는 개인의 생명에 대한 존중을 반영하지 않는다고 보고 있다. 위장된 살인 문제가 따라올 수 있다. 안락사를 자살로 위장한 살인 사례가 발생할 수 있으며, 이는 범죄로 이어질 수 있다. SNS와 같은 매체를 통해 안락사가 확산될 경우, 청소년들 사이에서 부정적 영향을 미칠 수 있고, 생명 경시 풍조를 유발할 수 있다고 우려된다.</p>
             </article>
             <!--.-->
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 학급 토론 정리 웹사이트</p>
-    </footer>
-    <script src="script.js"></script>
-</body>
-</html>
-
-/* styles.css */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
 }
 
-header {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1rem 0;
-}
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-h1, h2, h3 {
-    margin: 0 0 10px;
-}
-
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-// script.js
-// 필요한 경우 JavaScript 코드를 여기에 추가합니다.
