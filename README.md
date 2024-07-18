@@ -12,7 +12,7 @@
     </header>
     <main>
         <section id="discussion-summary">
-            <h2>토론 주제: 환경 보호</h2>
+            <h2>토론 주제: 적극적 자율 안락사 찬반 토론 결과 </h2>
             <p>여기에는 학급 토론의 요약 내용을 입력합니다.</p>
         </section>
         <section id="discussion-details">
