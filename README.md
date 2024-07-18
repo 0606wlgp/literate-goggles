@@ -30,4 +30,12 @@
             </article>
             <!--.-->
 
+ </section>
+        <section id="discussion-details">
+            <h2> 토론 후</h2>
+            <article>
+                <h3>투표 결과</h3>
+                <p>토론 후 투표 결과 찬성측 11표 VS 반대측 14표</p>
+            </article>
+            <!--.-->
 
