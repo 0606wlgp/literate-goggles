@@ -13,7 +13,9 @@
     <main>
         <section id="discussion-summary">
             <h2>토론 주제: 적극적 자율 안락사 찬반 토론 결과 </h2>
-            <p>여기에는 학급 토론의 요약 내용을 입력합니다.</p>
+            <p>찬성팀 강민주 이가은 반대팀 손영주 김나현 
+                토론 전 투표 결과 
+                찬성 22표 VS 반대 3표.</p>
         </section>
         <section id="discussion-details">
             <h2>세부 내용</h2>
